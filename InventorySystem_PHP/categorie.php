@@ -96,4 +96,3 @@
    </div>
   </div>
   <?php include_once('layouts/footer.php'); ?>
- //COMMENT
